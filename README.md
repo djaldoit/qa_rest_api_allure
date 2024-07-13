@@ -1,0 +1,1 @@
+# qa_rest_api_allure
