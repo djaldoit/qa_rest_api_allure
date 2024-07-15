@@ -1,6 +1,5 @@
 import pytest
 from selene import browser
-import allure
 from utils.tools import get_auth_cookie, add_auth_cookie
 
 
